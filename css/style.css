@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet"');
+
+#sec-carusel{
+	text-align: center;
+	font-family:'Open Sans'; 
+}
+#sec-carusel h1{
+	font size:30px;
+	text-transform: uppercase;
+}
+#sec-carusel p{
+	font size:20px;
+	letter-spacing: 3px;
+}
+#sec-about{
+	text-align: center;
+}
+#sec-about h3{
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	padding-top: 30px;
+}
+#sec-about h6{
+	text-transform: uppercase;
+	font-size: 8;
+}
+#sec-about  h6 .icon{
+	background-color: #010101;
+}
+
+#sec-about .icon{
+	border: 1px solid #fff;
+	width: 80px;
+	height: 80px;
+	text-align: center;
+	border-radius: 100%;
+}
+
+#sec-counter{
+	background-position: top center;
+	background-color: black;
+	text-align: center;
+	padding: 40px;
+	color:#fff;
+}
+#sec-counter p{
+	color:#FE8F01;
+	letter-spacing: 1px;
+	}
+#sec-counter .icon{
+	border: 1px solid #fff;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	border-radius: 100%;
+	color:rgba(255,255,255,1.00);
+}
+footer{
+	text-align: center;
+	color: #fff;
+	background-color: #2F2F2F;
+	font-size: 18px;
+		
+}
